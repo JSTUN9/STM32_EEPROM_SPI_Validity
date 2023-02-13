@@ -1,0 +1,1 @@
+# STM32_EEPROM_SPI_Validity
